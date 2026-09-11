@@ -37,4 +37,9 @@ The chatbot can be used for learning, coding, mathematics, writing, career guida
 - OpenAI Python SDK
 - python-dotenv
 
+## Chatbot Images
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3d3017b7-4239-46c2-b9dc-d953e601ec91" />
 
+## Conclusion
+
+This project demonstrates a simple AI-powered chatbot built using Python and Streamlit. It allows users to interact with the chatbot through a user-friendly web interface and receive AI-generated responses. This project helped me understand chatbot development, API integration, prompt handling, and deploying AI applications.
